@@ -10,4 +10,4 @@ orange
 banana
 peach
 lemon
-plum
+mandarin
